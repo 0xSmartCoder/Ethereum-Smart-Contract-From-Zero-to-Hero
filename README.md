@@ -28,14 +28,15 @@ Episode 2: How to Create & Deploy first Smart Contract?
 
 Episode 3: Functions in Solidity
 ---
-🔗 Watch Video:👉 
+🔗 Watch Video:👉 https://youtu.be/vdwOBqFGTng
 ---
 💻 Code Example: functions.sol
+--
+https://github.com/0xSmartCoder/Ethereum-Smart-Contract-From-Zero-to-Hero/blob/main/functions.sol
+--
 ---
 📝 Practice:
 1. Copy the code into Remix IDE (remix.ethereum.org)
 2. Compile & deploy it on a test environment
 3. Try changing parameters, visibility, and return values
-4. Share your results in the comments!
-
 ---
