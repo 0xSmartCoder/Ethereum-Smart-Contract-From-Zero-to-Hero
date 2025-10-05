@@ -1,7 +1,7 @@
 # 🚀 Ethereum Smart Contract: From Zero to Hero
 
 A complete **beginner-friendly guide** to learning and building Ethereum Smart Contracts — from **Zero → Hero**.  
-This series is designed to help you **understand Solidity**, **practice with real examples**, and **build confidence** as a blockchain developer.
+This series helps you **understand Solidity**, **practice real examples**, and **build confidence** as a blockchain developer.
 
 ---
 
@@ -41,6 +41,19 @@ This series is designed to help you **understand Solidity**, **practice with rea
 
 ---
 
+### 🧩 Episode 4: Variables in Solidity (State, Local, Global)  
+---
+🔗 **Watch Video:** [https://youtu.be/dG5nKdjeBZE](https://youtu.be/dG5nKdjeBZE?si=DlI8WQIwpXxDj9Yf)  
+💻 **Code Example:** [`Variables.sol`](https://github.com/0xSmartCoder/Ethereum-Smart-Contract-From-Zero-to-Hero/blob/main/Variables.sol)  
+🧠 **Overview:** Learn the different types of variables in Solidity — **State**, **Local**, and **Global** — and how they store and access data.  
+📝 **Practice Steps:**  
+1. Copy the code into [Remix IDE](https://remix.ethereum.org)  
+2. Deploy the contract  
+3. Observe how state variables persist on-chain while local variables exist only during function execution  
+4. Access global variables like `block.timestamp` and `msg.sender` to understand blockchain context  
+
+---
+
 ### 🔢 Episode 5: Data Types in Solidity (Value & Reference Types)  
 ---
 🔗 **Watch Video:** [https://youtu.be/uDX7XWNQVuA](https://youtu.be/uDX7XWNQVuA)  
@@ -48,7 +61,7 @@ This series is designed to help you **understand Solidity**, **practice with rea
 🧠 **Overview:** Learn about Solidity’s most used data types — from integers and booleans to arrays, structs, and mappings.  
 📝 **Practice Steps:**  
 1. Copy the code into [Remix IDE](https://remix.ethereum.org)  
-2. Compile & deploy in **JavaScript VM**  
+2. Compile & deploy  
 3. Change variable values and check how **Value Types** (like `uint`, `bool`) differ from **Reference Types** (like `array`, `struct`, `mapping`)  
 4. Try editing storage and memory variables to see real differences  
 
@@ -68,9 +81,8 @@ This series is designed to help you **understand Solidity**, **practice with rea
 
 ---
 
-
 ## 🤝 Connect  
-📺 YouTube: [@0xSmartCoder](https://www.youtube.com/@ezaqDev)  
+📺 YouTube: [@0xSmartCoder](https://youtube.com/@ezaqdev)  
 💼 GitHub: [@0xSmartCoder](https://github.com/0xSmartCoder)
 
 ---
