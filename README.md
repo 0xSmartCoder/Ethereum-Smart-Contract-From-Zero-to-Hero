@@ -82,7 +82,7 @@ This series helps you **understand Solidity**, **practice real examples**, and *
 ---
 
 ## 🤝 Connect  
-📺 YouTube: [@0xSmartCoder](https://youtube.com/@ezaqdev)  
+📺 YouTube: [ezaqDev](https://youtube.com/@ezaqdev)  
 💼 GitHub: [@0xSmartCoder](https://github.com/0xSmartCoder)
 
 ---
