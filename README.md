@@ -1,42 +1,80 @@
-# Ethereum-Smart-Contract-From-Zero-to-Hero
-A complete beginner-friendly guide to learning and building Ethereum smart contracts — from zero to hero.
+# 🚀 Ethereum Smart Contract: From Zero to Hero
 
-📺 YouTube Playlist
-👉 https://youtube.com/playlist?list=PLTqLJyAWopd6t0umMSG9JEiMw-z31Z7qL&si=ukgNIbnr3dLikgVa 
-
----
-
-📘 Episodes
-
-Episode 1: What is Web3 & Smart Contracts?
----
-🔗 Watch Video:👉 https://youtu.be/DMTVLNMV6nE?si=x57uVtIOd_inBftC 
----
-💻 Code: Conceptual only, no practice code for this intro.
-
+A complete **beginner-friendly guide** to learning and building Ethereum Smart Contracts — from **Zero → Hero**.  
+This series is designed to help you **understand Solidity**, **practice with real examples**, and **build confidence** as a blockchain developer.
 
 ---
 
-Episode 2: How to Create & Deploy first Smart Contract?
----
-🔗 Watch Video:👉 https://youtu.be/zfqGuF4hMKk?si=Cxb-kaSG9lj4oHW0
----
-💻 Code: Conceptual only, no practice code for this intro.
-
+## 📺 YouTube Playlist  
+👉 [Watch Full Series on YouTube](https://youtube.com/playlist?list=PLTqLJyAWopd6t0umMSG9JEiMw-z31Z7qL&si=ukgNIbnr3dLikgVa)
 
 ---
 
-Episode 3: Functions in Solidity
+## 📘 Episodes
+
+### 🧠 Episode 1: What is Web3 & Smart Contracts?  
 ---
-🔗 Watch Video:👉 https://youtu.be/vdwOBqFGTng
+🔗 **Watch Video:** [https://youtu.be/DMTVLNMV6nE](https://youtu.be/DMTVLNMV6nE)  
+💻 **Code:** Conceptual only — no practice code for this intro.  
+📚 **Overview:** Introduction to Web3, blockchain basics, and how smart contracts change traditional systems.
+
 ---
-💻 Code Example: functions.sol
---
-https://github.com/0xSmartCoder/Ethereum-Smart-Contract-From-Zero-to-Hero/blob/main/functions.sol
---
+
+### 🧱 Episode 2: How to Create & Deploy Your First Smart Contract  
 ---
-📝 Practice:
-1. Copy the code into Remix IDE (remix.ethereum.org)
-2. Compile & deploy it on a test environment
-3. Try changing parameters, visibility, and return values
+🔗 **Watch Video:** [https://youtu.be/zfqGuF4hMKk](https://youtu.be/zfqGuF4hMKk)  
+💻 **Code:** Conceptual only — hands-on starts from the next episodes.  
+🧩 **Overview:** Learn how to use Remix IDE, compile your first contract, and deploy it to a test network.
+
 ---
+
+### ⚙️ Episode 3: Functions in Solidity  
+---
+🔗 **Watch Video:** [https://youtu.be/vdwOBqFGTng](https://youtu.be/vdwOBqFGTng)  
+💻 **Code Example:** [`functions.sol`](https://github.com/0xSmartCoder/Ethereum-Smart-Contract-From-Zero-to-Hero/blob/main/functions.sol)  
+🧠 **Overview:** Understand function types, parameters, visibility, and return values.  
+📝 **Practice Steps:**  
+1. Copy the code into [Remix IDE](https://remix.ethereum.org)  
+2. Compile & deploy it in a local or test environment  
+3. Experiment with public/private/internal visibility  
+4. Modify parameters and return data to explore behavior  
+
+---
+
+### 🔢 Episode 5: Data Types in Solidity (Value & Reference Types)  
+---
+🔗 **Watch Video:** [https://youtu.be/uDX7XWNQVuA](https://youtu.be/uDX7XWNQVuA)  
+💻 **Code Example:** [`dataTypes.sol`](https://github.com/0xSmartCoder/Ethereum-Smart-Contract-From-Zero-to-Hero/blob/main/dataTypes.sol)  
+🧠 **Overview:** Learn about Solidity’s most used data types — from integers and booleans to arrays, structs, and mappings.  
+📝 **Practice Steps:**  
+1. Copy the code into [Remix IDE](https://remix.ethereum.org)  
+2. Compile & deploy in **JavaScript VM**  
+3. Change variable values and check how **Value Types** (like `uint`, `bool`) differ from **Reference Types** (like `array`, `struct`, `mapping`)  
+4. Try editing storage and memory variables to see real differences  
+
+---
+
+## 💡 How to Use This Repository  
+1. Each episode folder or file contains **the code shown in the video**  
+2. You can open these files in **Remix IDE** or **VS Code**  
+3. Follow along with the **YouTube video** to understand each concept  
+4. Use the **Practice section** to build your hands-on skills  
+
+---
+
+## 🧠 Pro Tip  
+> “Practice is the mother of skill.”  
+> Try every code example yourself — copy it, run it, break it, fix it — and learn by doing!  
+
+---
+
+
+## 🤝 Connect  
+📺 YouTube: [@0xSmartCoder](https://www.youtube.com/@ezaqDev)  
+💼 GitHub: [@0xSmartCoder](https://github.com/0xSmartCoder)
+
+---
+
+### ⭐ Support  
+If you find this project helpful, don’t forget to **star the repo** 🌟  
+Your support motivates me to keep creating free educational content for the community! 💙
