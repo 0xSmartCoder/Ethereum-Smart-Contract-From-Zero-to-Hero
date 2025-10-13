@@ -10,9 +10,7 @@ This series helps you **understand Solidity**, **practice real examples**, and *
 
 ---
 
-## 📘 Episodes
-
-### 🧠 Episode 1: What is Web3 & Smart Contracts?  
+### 🧠 What is Web3 & Smart Contracts?  
 ---
 🔗 **Watch Video:** [https://youtu.be/DMTVLNMV6nE](https://youtu.be/DMTVLNMV6nE)  
 💻 **Code:** Conceptual only — no practice code for this intro.  
@@ -20,15 +18,17 @@ This series helps you **understand Solidity**, **practice real examples**, and *
 
 ---
 
-### 🧱 Episode 2: How to Create & Deploy Your First Smart Contract  
+### 🧱 How to Create & Deploy Your First Smart Contract  
 ---
 🔗 **Watch Video:** [https://youtu.be/zfqGuF4hMKk](https://youtu.be/zfqGuF4hMKk)  
 💻 **Code:** Conceptual only — hands-on starts from the next episodes.  
 🧩 **Overview:** Learn how to use Remix IDE, compile your first contract, and deploy it to a test network.
 
 ---
+## 📘 Episodes
 
-### ⚙️ Episode 3: Functions in Solidity  
+
+### ⚙️ Episode 1: Functions in Solidity  
 ---
 🔗 **Watch Video:** [https://youtu.be/vdwOBqFGTng](https://youtu.be/vdwOBqFGTng)  
 💻 **Code Example:** [`functions.sol`](https://github.com/0xSmartCoder/Ethereum-Smart-Contract-From-Zero-to-Hero/blob/main/functions.sol)  
@@ -41,7 +41,7 @@ This series helps you **understand Solidity**, **practice real examples**, and *
 
 ---
 
-### 🧩 Episode 4: Variables in Solidity (State, Local, Global)  
+### 🧩 Episode 2: Variables in Solidity (State, Local, Global)  
 ---
 🔗 **Watch Video:** [https://youtu.be/dG5nKdjeBZE](https://youtu.be/dG5nKdjeBZE?si=DlI8WQIwpXxDj9Yf)  
 💻 **Code Example:** [`Variables.sol`](https://github.com/0xSmartCoder/Ethereum-Smart-Contract-From-Zero-to-Hero/blob/main/Variables.sol)  
@@ -54,7 +54,7 @@ This series helps you **understand Solidity**, **practice real examples**, and *
 
 ---
 
-### 🔢 Episode 5: Data Types in Solidity (Value & Reference Types)  
+### 🔢 Episode 3: Data Types in Solidity (Value & Reference Types)  
 ---
 🔗 **Watch Video:** [https://youtu.be/uDX7XWNQVuA](https://youtu.be/uDX7XWNQVuA)  
 💻 **Code Example:** [`dataTypes.sol`](https://github.com/0xSmartCoder/Ethereum-Smart-Contract-From-Zero-to-Hero/blob/main/dataTypes.sol)  
