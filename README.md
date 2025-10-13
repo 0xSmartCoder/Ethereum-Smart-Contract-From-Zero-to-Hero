@@ -67,6 +67,19 @@ This series helps you **understand Solidity**, **practice real examples**, and *
 
 ---
 
+### 🔢 Episode 4: Operators in Solidity Explained | Arithmetic, Comparison & Logical... 
+---
+🔗 **Watch Video:** [https://youtu.be/uDX7XWNQVuA](https://youtu.be/PqK_AcLW0vI?si=8N_RdmvFMCf6k1Gz)  
+💻 **Code:** Conceptual only — no practice code for this intro.  
+🧠 **Overview:** Learn about operators in Solidity — how they perform calculations, make comparisons, handle logic, and manipulate data at the bit level. You’ll learn how operators help in writing smarter and more efficient Ethereum smart contracts. 
+📝 **Practice Steps:**  
+1. Copy the code into [Remix IDE](https://remix.ethereum.org)  
+2. Compile & deploy  
+3. Experiment by changing variable values and testing each operato 
+4. Observe how logical and comparison operators affect contract conditions 
+
+---
+
 ## 💡 How to Use This Repository  
 1. Each episode folder or file contains **the code shown in the video**  
 2. You can open these files in **Remix IDE** or **VS Code**  
