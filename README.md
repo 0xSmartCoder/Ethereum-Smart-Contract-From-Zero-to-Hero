@@ -94,7 +94,7 @@ This series helps you **understand Solidity**, **practice real examples**, and *
 ---
 
 ## 🤝 Connect  
-📺 YouTube: [ezaqDev](https://youtube.com/@ezaqdev)  
+📺 YouTube: [ezaqDev](https://youtube.com/@izaqdev)  
 💼 GitHub: [@0xSmartCoder](https://github.com/0xSmartCoder)
 
 ---
